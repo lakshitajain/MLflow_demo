@@ -1,0 +1,4 @@
+outs:
+- md5: 6a84ac18a39b109e3ca1d53fff98eb48
+  size: 2901180
+  path: cardio_train.csv
